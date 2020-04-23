@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cow_idle + cow_eat_loop.ogg-c6adf3c10e68853359fe30e5f4d6f779.oggstr"
+
+[deps]
+
+source_file="res://sound/sfx/cow_idle + cow_eat_loop.ogg"
+dest_files=[ "res://.import/cow_idle + cow_eat_loop.ogg-c6adf3c10e68853359fe30e5f4d6f779.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

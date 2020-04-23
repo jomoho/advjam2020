@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cut_gras_01.ogg-60a4392006027b9dc9e1858df82edf92.oggstr"
+
+[deps]
+
+source_file="res://sound/sfx/cut_gras_01.ogg"
+dest_files=[ "res://.import/cut_gras_01.ogg-60a4392006027b9dc9e1858df82edf92.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

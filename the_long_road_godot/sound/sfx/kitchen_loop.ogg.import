@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/kitchen_loop.ogg-cea313e7536a0f15c535af17ef286caa.oggstr"
+
+[deps]
+
+source_file="res://sound/sfx/kitchen_loop.ogg"
+dest_files=[ "res://.import/kitchen_loop.ogg-cea313e7536a0f15c535af17ef286caa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
