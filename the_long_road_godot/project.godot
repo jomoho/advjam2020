@@ -17,8 +17,6 @@ _global_script_class_icons={
 
 config/name="Farm Life"
 run/main_scene="res://scenes/start/start_menu.tscn"
-boot_splash/image="res://img/cover_shoot_final.png"
-config/icon="res://img/cover_shoot_icon_min_final.png"
 
 [autoload]
 
@@ -115,7 +113,6 @@ file_logging/enable_file_logging=true
 
 [rendering]
 
-quality/driver/driver_name="GLES2"
 vram_compression/import_etc=true
 vram_compression/import_etc2=false
 quality/shadows/filter_mode=2
